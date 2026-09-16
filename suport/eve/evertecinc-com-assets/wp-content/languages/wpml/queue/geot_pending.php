@@ -1,0 +1,2 @@
+<?php
+return ['items'=>['Geotargeting'=>['saveStringInDb'=>true,'cmp'=>['geotargetingwp',1],'names'=>[],'urls'=>[]],'Please share your location to continue.'=>['saveStringInDb'=>true,'cmp'=>['geotargetingwp',1],'names'=>[],'urls'=>[]],'Check our <a href="%s" rel="noreferrer noopener nofollow">help guide</a> for more info.'=>['saveStringInDb'=>true,'cmp'=>['geotargetingwp',1],'names'=>[],'urls'=>[]]]];

@@ -1,0 +1,2 @@
+<?php
+return ['items'=>['You are in:'=>['urls'=>[],'names'=>[],'cmp'=>['code-snippets',1]],'Solutions'=>['urls'=>[],'names'=>[],'cmp'=>['code-snippets',1]],'See all solutions for this sector'=>['urls'=>[],'names'=>[],'cmp'=>['code-snippets',1]],'View all solutions for %s'=>['urls'=>[],'names'=>[],'cmp'=>['code-snippets',1]],'Quieres transformar tu negocio?'=>['urls'=>[],'names'=>[],'cmp'=>['code-snippets',1]],'Explore nuestras soluciones'=>['urls'=>[],'names'=>[],'cmp'=>['code-snippets',1]]]];

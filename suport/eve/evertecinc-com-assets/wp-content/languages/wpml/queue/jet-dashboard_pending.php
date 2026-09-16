@@ -1,0 +1,2 @@
+<?php
+return ['items'=>['This site is not activated'=>['saveStringInDb'=>true,'cmp'=>['jet-engine',1],'names'=>[],'urls'=>[]],'This site is not activated for this license. Go to the license manager deactivate your license and activate your key again'=>['saveStringInDb'=>true,'cmp'=>['jet-engine',1],'names'=>[],'urls'=>[]],'Activate'=>['saveStringInDb'=>true,'cmp'=>['jet-engine',1],'names'=>[],'urls'=>[]]]];

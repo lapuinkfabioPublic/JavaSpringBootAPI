@@ -1,0 +1,2 @@
+<?php
+return ['items'=>['Comma-separated list of product slugs that should be retrieved.'=>['saveStringInDb'=>true,'cmp'=>['jetpack-boost',1],'names'=>[],'urls'=>[]],'Array of Product slugs'=>['saveStringInDb'=>true,'cmp'=>['jetpack-boost',1],'names'=>[],'urls'=>[]],'Key-value pairs of product slugs and their interstitial states.'=>['saveStringInDb'=>true,'cmp'=>['jetpack-boost',1],'names'=>[],'urls'=>[]]]];

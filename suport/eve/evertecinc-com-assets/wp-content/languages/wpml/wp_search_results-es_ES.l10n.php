@@ -1,0 +1,2 @@
+<?php
+return ['messages'=>['Next'=>'Siguiente','Outros resultados'=>'Otros resultados','Pesquisar por:'=>'Buscar:','Previous'=>'Anterior','Soluções'=>'Soluciones','Type your search'=>'Escribe tu búsqueda','label_others'=>'Otros resultados','label_solutions'=>'Soluciones','pagination_next'=>'Siguiente','pagination_prev'=>'Anterior','search_label'=>'Buscar:','search_placeholder'=>'Escribe tu búsqueda']];

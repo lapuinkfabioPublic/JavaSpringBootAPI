@@ -1,0 +1,2 @@
+<?php
+return ['items'=>['Code Snippets'=>['saveStringInDb'=>true,'cmp'=>['code-snippets-pro',1],'names'=>[],'urls'=>[]],'Scripts (JS)'=>['saveStringInDb'=>true,'cmp'=>['code-snippets-pro',1],'names'=>[],'urls'=>[]],'Connect to Cloud'=>['saveStringInDb'=>true,'cmp'=>['code-snippets-pro',1],'names'=>[],'urls'=>[]],'Connect and Authorise'=>['saveStringInDb'=>true,'cmp'=>['code-snippets-pro',1],'names'=>[],'urls'=>[]],'Click to connect and authorise your cloud account.'=>['saveStringInDb'=>true,'cmp'=>['code-snippets-pro',1],'names'=>[],'urls'=>[]]]];

@@ -1,0 +1,2 @@
+<?php
+return ['items'=>['Oops!'=>['urls'=>[],'names'=>[],'cmp'=>['code-snippets',1]],'Page'=>['urls'=>[],'names'=>[],'cmp'=>['code-snippets',1]],'Not Found'=>['urls'=>[],'names'=>[],'cmp'=>['code-snippets',1]],'We\'re sorry, but the page you\'re looking for doesn\'t exist. Please check the URL.'=>['urls'=>[],'names'=>[],'cmp'=>['code-snippets',1]],'Home'=>['urls'=>[],'names'=>[],'cmp'=>['code-snippets',1]]]];

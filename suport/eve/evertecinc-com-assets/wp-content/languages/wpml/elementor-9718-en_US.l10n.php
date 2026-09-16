@@ -1,0 +1,2 @@
+<?php
+return ['messages'=>['https://evertecinc-com.plataformasegura.nubity.com/donde-estamos'=>'https://evertecinc-com.plataformasegura.nubity.com/en/where-we-are/','https://evertecinc-com.plataformasegura.nubity.com/soporte'=>'https://evertecinc-com.plataformasegura.nubity.com/en/support/','url-button-281641d'=>'https://evertecinc-com.plataformasegura.nubity.com/en/support/','url-container-426dd04'=>'https://evertecinc-com.plataformasegura.nubity.com/en/where-we-are/']];
